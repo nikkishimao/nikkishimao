@@ -3,7 +3,7 @@
 <h2>👨‍💻 Applied Data Science Projects:</h2>
 
 - <b>Python</b>
-  - [Spotify Project](https://github.com/nikkishimao/LABURL)
+  - [Cross Trends: A Last.fm and Spotify Analysis](https://github.com/nikkishimao/LABURL)
 
 <h2>Awards</h2>
 
