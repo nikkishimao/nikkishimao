@@ -10,6 +10,7 @@
   - [Public Health Analysis: Obesity, Physical Activity, and Nutrition Trends among Adults in the United States](https://github.com/nikkishimao/PublicHealthAnalysisProject)
 
 - <b>SQL</b>
+  - [Wedding Match](https://github.com/nikkishimao/WeddingMatch)
 
 <h2>Connect with me:</h2>
 
