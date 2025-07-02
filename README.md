@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Cross Trends: A Last.fm and Spotify Analysis](https://github.com/nikkishimao/Last.fmSpotifyProject)
+  - [Predicting FIFA Rating Changes from Player Injuries](https://github.com/nikkishimao/PredictingFIFARatingChanges)
  
 - <b>Tableau</b>
   - [Public Health Analysis: Obesity, Physical Activity, and Nutrition Trends among Adults in the United States](https://github.com/nikkishimao/PublicHealthAnalysisProject)
