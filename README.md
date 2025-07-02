@@ -9,6 +9,8 @@
 - <b>Tableau</b>
   - [Public Health Analysis: Obesity, Physical Activity, and Nutrition Trends among Adults in the United States](https://github.com/nikkishimao/PublicHealthAnalysisProject)
 
+- <b>SQL</b>
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="NikkiShimao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
