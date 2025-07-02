@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nikki! </h1>
 
-<h2>👨‍💻 Applied Data Science Projects:</h2>
+<h2>Applied Data Science Projects:</h2>
 
 - <b>Python</b>
   - [Cross Trends: A Last.fm and Spotify Analysis](https://github.com/nikkishimao/Last.fmSpotifyProject)
@@ -8,7 +8,7 @@
 - <b>Tableau</b>
   - [Public Health Analysis: Obesity, Physical Activity, and Nutrition Trends among Adults in the United States](https://github.com/nikkishimao/PublicHealthAnalysisProject)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="NikkiShimao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
