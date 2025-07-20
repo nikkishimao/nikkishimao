@@ -13,6 +13,9 @@
 - <b>SQL</b>
   - [Wedding Match](https://github.com/nikkishimao/WeddingMatch)
 
+- <b>PowerBI</b>
+  - [Data Warehouse: A Food Delivery Analysis](https://github.com/nikkishimao/FoodDeliveryAnalysis)
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="NikkiShimao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
