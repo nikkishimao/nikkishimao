@@ -16,7 +16,7 @@
 - <b>PowerBI</b>
   - [Data Warehouse: A Food Delivery Analysis](https://github.com/nikkishimao/FoodDeliveryAnalysis)
  
-<h2>Data Visualization Projects:</h2>
+<h2>Data Visualization Projects: (in progress)</h2>
 
 - <b>Typography</b>
   - [Living Our Luxe, Everday Magazine](https://github.com/nikkishimao/LivingOurLuxeMagazine/blob/main/Spreads_Living%20Our%20Luxe%2CEveryday.pdf)
