@@ -15,6 +15,10 @@
 
 - <b>PowerBI</b>
   - [Data Warehouse: A Food Delivery Analysis](https://github.com/nikkishimao/FoodDeliveryAnalysis)
+ 
+<h2>Data Visualization Projects:</h2>
+
+- <b>Typography</b>
 
 <h2>Connect with me:</h2>
 
