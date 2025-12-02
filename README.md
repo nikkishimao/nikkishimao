@@ -20,6 +20,10 @@
 
 - <b>Typography</b>
   - [Living Our Luxe, Everday Magazine](https://github.com/nikkishimao/LivingOurLuxeMagazine/blob/main/Spreads_Living%20Our%20Luxe%2CEveryday.pdf)
+ 
+- <b>Data Viz and Aesthetics</b>
+
+- <b>Data Structures</b>
 
 <h2>Connect with me:</h2>
 
