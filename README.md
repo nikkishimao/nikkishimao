@@ -19,6 +19,7 @@
 <h2>Data Visualization Projects:</h2>
 
 - <b>Typography</b>
+  - [Living Our Luxe, Everday Magazine](https://github.com/nikkishimao/LivingOurLuxeMagazine/blob/main/Spreads_Living%20Our%20Luxe%2CEveryday.pdf)
 
 <h2>Connect with me:</h2>
 
